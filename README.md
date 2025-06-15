@@ -22,7 +22,7 @@ This project demonstrates the fundamentals of keystroke logging using Python and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Akshay-kallada/PRODIGY_CS_04/keylogger.git
+git clone https://github.com/Akshay-kallada/PRODIGY_CS_04.git
 cd PRODIGY_CS_04/keylogger
 
 Create and Activate Virtual Environment
