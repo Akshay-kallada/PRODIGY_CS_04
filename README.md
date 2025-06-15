@@ -22,8 +22,8 @@ This project demonstrates the fundamentals of keystroke logging using Python and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Akshay-kallada/PRODIGY_CS_04_Simple-Keylogger.git
-cd PRODIGY_CS_04_Simple-Keylogger
+git clone https://github.com/Akshay-kallada/PRODIGY_CS_04/keylogger.git
+cd PRODIGY_CS_04/keylogger
 
 Create and Activate Virtual Environment
 python3 -m venv venv
